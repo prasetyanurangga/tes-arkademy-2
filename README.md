@@ -14,7 +14,7 @@ Langkah-langkah Penggunaan:
 - Buat database baru dengan nama programmer
 - Pindah Ke Direktori xampp/htdocs
 - Clone: __https://github.com/prasetyanurangga/tes-arkademy-2.git__
-- Import file __programmer.sql__ ke database earned_vote yang telah dibuat tadi
+- Import file __programmer.sql__ ke database programmer yang telah dibuat tadi
 - Buka browser, kemudian buka __localhost__
 
 **Screenshot Tampilan Soal Nomor 6**

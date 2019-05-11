@@ -11,11 +11,11 @@ Langkah-langkah Penggunaan:
 
 - Install XAMPP
 - Buka Jalankan Module Apache dan Mysql yang ada pada XAMPP
-- Buat database baru dengan nama earned_vote
+- Buat database baru dengan nama programmer
 - Pindah Ke Direktori xampp/htdocs
-- Clone: __https://github.com/prasetyanurangga/tes-arkademy.git__
-- Import file __earned_vote.sql__ ke database earned_vote yang telah dibuat tadi
+- Clone: __https://github.com/prasetyanurangga/tes-arkademy-2.git__
+- Import file __programmer.sql__ ke database earned_vote yang telah dibuat tadi
 - Buka browser, kemudian buka __localhost__
 
 **Screenshot Tampilan Soal Nomor 6**
-![alt text](https://github.com/prasetyanurangga/tes-arkademy/blob/master/screenshot.png)
+![alt text](https://github.com/prasetyanurangga/tes-arkademy-2/blob/master/screenshot_2.png)
